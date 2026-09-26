@@ -1,8 +1,8 @@
 {
-  "version": "7.16.235",
-  "download_url": "https://github.com/MLP-Sola/modusoper-download/releases/download/v7.16.235/ModusOper-7.16.235-0b909a37-Setup-x64.exe",
-  "sha256": "a876f50e56e272eb45d1503c7cbd4dcbafb46ec0d248f397415a17eed3bf1dff",
-  "notes": "Correction du controle de compte CSV et lancement automatique de l'installateur.",
+  "version": "7.16.236",
+  "download_url": "https://github.com/MLP-Sola/modusoper-download/releases/download/v7.16.236/ModusOper-7.16.236-19d83164-Setup-x64.exe",
+  "sha256": "deef017ffa4fd29565d05592e8e9a06d8b85e05169cb6ff5e6fe9b0c65aed536",
+  "notes": "Correction de l'import CSV et du profil de colonnes memorise.",
   "mandatory": false,
-  "signature": "qwikDCI/NpuatzZfUyRrA3DWvNZi4AfQCUO7eGgHy64WtF9+R2vGvfkJRFC2KKjwoZzYNJ+gx5wRTSuAAej+AQ=="
+  "signature": "rfSfMdFxVTqZ/yrnKO4L5pTz1p+bsUquLOYif2XBC3O4HhvMvSQ+mA8Cks3w2ONyqs3LKv7f7JIR4/iXKVecBw=="
 }
