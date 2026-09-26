@@ -1,8 +1,8 @@
 {
-  "version": "7.16.231",
-  "download_url": "https://github.com/MLP-Sola/modusoper-download/releases/download/v7.16.231/ModusOper-7.16.231-1db38e3b-Setup-x64.exe",
-  "sha256": "313a2c0018bf8056f09301dc527560820470e6dcf059f4602b31581652c19923",
-  "notes": "Version de recette 7.16.231.",
+  "version": "7.16.233",
+  "download_url": "https://github.com/MLP-Sola/modusoper-download/releases/download/v7.16.233/ModusOper-7.16.233-4db7129e-Setup-x64.exe",
+  "sha256": "69b462024c1b6be2ab70fddbe635ec084c694e3f6a74e561eaf01823ec2f528e",
+  "notes": "Correctif de l'achat et nouveau theme Signature.",
   "mandatory": false,
-  "signature": "Yo3AvTR6bGcEYUb0I3A741220slhBAL3nhrf8LrVLWPHbxS3/CBbAnlSxQr8JVurnDhkdsYnoaqDUuXNR9GHCA=="
+  "signature": "VAVhDB5ofTbnG1DwTixqQlk8EQ1BynjyuTfoAmfktAXwtfcIcQdw0NwSHl3oTrMb6KxI5xvlFta7fOUPi9jeAg=="
 }
