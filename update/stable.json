@@ -1,8 +1,8 @@
 {
-  "version": "7.16.236",
-  "download_url": "https://github.com/MLP-Sola/modusoper-download/releases/download/v7.16.236/ModusOper-7.16.236-19d83164-Setup-x64.exe",
-  "sha256": "deef017ffa4fd29565d05592e8e9a06d8b85e05169cb6ff5e6fe9b0c65aed536",
-  "notes": "Correction de l'import CSV et du profil de colonnes memorise.",
+  "version": "7.16.237",
+  "download_url": "https://github.com/MLP-Sola/modusoper-download/releases/download/v7.16.237/ModusOper-7.16.237-a7861544-Setup-x64.exe",
+  "sha256": "4429e1464cef957d759efa6be075673c15518985eedc4ed881c9eff197538383",
+  "notes": "Transferts vers un compte non suivi et clarification des compensations.",
   "mandatory": false,
-  "signature": "rfSfMdFxVTqZ/yrnKO4L5pTz1p+bsUquLOYif2XBC3O4HhvMvSQ+mA8Cks3w2ONyqs3LKv7f7JIR4/iXKVecBw=="
+  "signature": "12dxZw4VCoHgJQW85aDcW4YR2CIYxfybjHR9yP/W+M7buAGTry8nO3j3qkTwCuSJQ5c7z53tGdBZEYsGqXwhDg=="
 }
