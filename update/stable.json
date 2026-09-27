@@ -1,8 +1,8 @@
 {
-  "version": "7.16.237",
-  "download_url": "https://github.com/MLP-Sola/modusoper-download/releases/download/v7.16.237/ModusOper-7.16.237-a7861544-Setup-x64.exe",
-  "sha256": "4429e1464cef957d759efa6be075673c15518985eedc4ed881c9eff197538383",
-  "notes": "Transferts vers un compte non suivi et clarification des compensations.",
+  "version": "7.16.238",
+  "download_url": "https://github.com/MLP-Sola/modusoper-download/releases/download/v7.16.238/ModusOper-7.16.238-6318db93-Setup-x64.exe",
+  "sha256": "7ee17be34edaa61a70baafd4c00efc1135f862a8f92a6c84ec308a5bc77b5679",
+  "notes": "Budget et analyse séparés en dépenses mensuelles et annuelles ; thème sombre par défaut.",
   "mandatory": false,
-  "signature": "12dxZw4VCoHgJQW85aDcW4YR2CIYxfybjHR9yP/W+M7buAGTry8nO3j3qkTwCuSJQ5c7z53tGdBZEYsGqXwhDg=="
+  "signature": "lplf/RxaClve5tlywqv9eWXfgVryMU9UGkwYKAFqaLPG1u0t/llC5DgBgYSXv5eyVm96AziZEpOnnoV/hCYdBg=="
 }
