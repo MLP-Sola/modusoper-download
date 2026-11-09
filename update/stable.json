@@ -1,8 +1,8 @@
 {
-  "version": "7.16.239",
-  "download_url": "https://github.com/MLP-Sola/modusoper-download/releases/download/7.16.239/ModusOper-7.16.239-52d8c8bc-Setup-x64.exe",
-  "sha256": "cb91d0ed3e752a2aa936c9cc5a4bbe1422b5fd4c36efbcc1977c8e12c6122a5f",
-  "notes": "Tarifs Plus alignés sur Lemon Squeezy : 39,99 € puis 49,99 €.",
+  "version": "7.16.240",
+  "download_url": "https://github.com/MLP-Sola/modusoper-download/releases/download/7.16.240/ModusOper-7.16.240-e15b8020-Setup-x64.exe",
+  "sha256": "44cd2ae79cbb77859427525e7dac70d2059493fa8fa66d15fcc9dcbe4e1b2755",
+  "notes": "Correction du lien d'achat Plus pour les codes de reduction.",
   "mandatory": false,
-  "signature": "xvkFONdcDqxq1dZ5BxwaXPYUXQTWcXRFCJkEOxJo2kuBH5w1SqtwW6yk0AJfc0LrHSq5OtBfBBN8mIhu0beZAQ=="
+  "signature": "hwxkDNhVEWKcA8anJn3N2G6qULDtgC2t3S4lT09uU+RvmuIabGWY4hQuxnTzHB0VpfQgHto/JByZAnsznRDjCw=="
 }
